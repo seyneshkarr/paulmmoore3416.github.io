@@ -43,10 +43,10 @@ Class Project
 🔌 Tools: Cli, Cisco Packet Tracer, Ubuntu, Gimp  
 📸 Features: ssh, dynamic DNS setup, VLANs
 
-### 📦 VSCode + Copilot DevOps Demo
-A complete VSCode environment demonstrating automation with Copilot and Ansible.  
-🔗 [GitHub Repo](https://github.com/paulmmoore3416/vscode-copilot-ansible)  
-🔍 Features: Task automation, live code generation with Copilot  
+### 📦 Python Cli 
+What you need to start engineering your own cli
+🔗 [GitHub Repo](https://github.com/paulmmoore3416/python-cli-example)  
+🔍 Features: Python  
 📘 Includes: Guide, code snippets, and deployment notes
 
 ---
