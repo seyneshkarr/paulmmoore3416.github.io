@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm a passionate and driven IT professional with
 
 ## 🚀 About Me
 
-- 🎓 CNT Certified | CompTIA Network+ | CySA+ | Future CCNA
+- 🎓 CNT Certified | CompTIA Network+ | Future CCNA | Red Hat System Administrator 
 - 🌐 Cloud Enthusiast | Building secure infrastructure with Ansible, Docker, and Linux
 - 🛠️ Working on projects with VSCode, GitHub Copilot, Raspberry Pi OS, and more
 - 📚 Lifelong learner committed to staying ahead in tech and security
@@ -54,7 +54,7 @@ A complete VSCode environment demonstrating automation with Copilot and Ansible.
 ## 🧠 Certifications
 
 - CompTIA Network+ ✅
-- CompTIA CySA+ ✅
+- Red Hat Linux System Administrator ✅
 - CNT (California Institute of Applied Technology) 🎓 *(Sept '25)*
 - CCNA *(Scheduled: Sept '25)*
 
