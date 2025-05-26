@@ -33,7 +33,7 @@ Welcome to my GitHub portfolio! I'm a passionate and driven IT professional with
 
 ### 🔧 Ansible Ubuntu Server Automation
 Automates initial setup of Ubuntu 22.04 server: updates, installs (net-tools, nmap, VLC, Apache2), user setup, auto-reboot.  
-🔗 [GitHub Repo](https://github.com/paulmmoore3416/ansible-ubuntu-setup)  
+🔗 [GitHub Repo](https://github.com/paulmmoore3416/ansible-initial-server-setup)  
 🛠️ Tools: Ansible, YAML, Ubuntu 22.04, Cloud-init  
 📄 Includes: Playbook, README, screenshots, and GitHub-hosting guide
 
