@@ -33,19 +33,19 @@ Welcome to my GitHub portfolio! I'm a passionate and driven IT professional with
 
 ### 🔧 Ansible Ubuntu Server Automation
 Automates initial setup of Ubuntu 22.04 server: updates, installs (net-tools, nmap, VLC, Apache2), user setup, auto-reboot.  
-🔗 [GitHub Repo](https://github.com/yourusername/ansible-ubuntu-setup)  
+🔗 [GitHub Repo](https://github.com/paulmmoore3416/ansible-ubuntu-setup)  
 🛠️ Tools: Ansible, YAML, Ubuntu 22.04, Cloud-init  
 📄 Includes: Playbook, README, screenshots, and GitHub-hosting guide
 
 ### ☁️ Raspberry Pi Cloud Storage
 Converted Raspberry Pi OS into a personal OwnCloud server with backup automation and external drive sync.  
-🔗 [GitHub Repo](https://github.com/yourusername/pi-cloud)  
+🔗 [GitHub Repo](https://github.com/paulmmoore3416/pi-cloud)  
 🔌 Tools: Bash, Apache, OwnCloud, Debian  
 📸 Features: Remote access, dynamic DNS setup, encrypted drives
 
 ### 📦 VSCode + Copilot DevOps Demo
 A complete VSCode environment demonstrating automation with Copilot and Ansible.  
-🔗 [GitHub Repo](https://github.com/yourusername/vscode-copilot-ansible)  
+🔗 [GitHub Repo](https://github.com/paulmmoore3416/vscode-copilot-ansible)  
 🔍 Features: Task automation, live code generation with Copilot  
 📘 Includes: Guide, code snippets, and deployment notes
 
