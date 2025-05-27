@@ -6,28 +6,51 @@ Welcome to my GitHub portfolio! I'm a passionate and driven IT professional with
 
 ## 🚀 About Me
 
-- 🎓 CNT Certified | CompTIA Network+ | Future CCNA | Red Hat System Administrator 
-- 🌐 Cloud Enthusiast | Building secure infrastructure with Ansible, Docker, and Linux
-- 🛠️ Working on projects with VSCode, GitHub Copilot, Raspberry Pi OS, and more
-- 📚 Lifelong learner committed to staying ahead in tech and security
+<img src="https://img.shields.io/badge/CNT%20Certified-blue?style=flat&logo=datadog&logoColor=white" alt="CNT Certified Badge"/>  
+<img src="https://img.shields.io/badge/CompTIA%20Network%2B-red?style=flat&logo=comptia&logoColor=white" alt="CompTIA Network+ Badge"/>  
+<img src="https://img.shields.io/badge/Future%20CCNA-brightgreen?style=flat&logo=cisco&logoColor=white" alt="Future CCNA Badge"/>  
+<img src="https://img.shields.io/badge/Red%20Hat%20SysAdmin-red?style=flat&logo=redhat&logoColor=white" alt="Red Hat System Administrator Badge"/>
+
+---
+
+🌐 Cloud Enthusiast | Building secure infrastructure with Ansible, Docker, and Linux  
+🛠️ Working on projects with VSCode, GitHub Copilot, Raspberry Pi OS, and more  
+📚 Lifelong learner committed to staying ahead in tech and security
 
 ---
 
 ## 🧰 Tech Stack
 
 **Languages & Scripting**  
-`Python` `Bash` `YAML` `HTML/CSS` `JavaScript` `C++`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/>
+<img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML Badge"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS Badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
 
 **Infrastructure & DevOps**  
-`Ansible` `Docker` `GitHub Actions` `Terraform` `WSL2` `VMware` `VirtualBox`
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
+<img src="https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="WSL2 Badge"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Badge"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox Badge"/>
 
 **Networking**  
-`Cisco IOS` `Packet Tracer` `Wireshark` `Nmap` `NetTools`
+<img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS Badge"/>
+<img src="https://img.shields.io/badge/Packet%20Tracer-006400?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer Badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Badge"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnubash&logoColor=white" alt="Nmap Badge"/>
+<img src="https://img.shields.io/badge/NetTools-333333?style=for-the-badge&logo=linux&logoColor=white" alt="NetTools Badge"/>
 
 **Cloud & Platforms**  
-`Azure` `AWS CLI` `Google Cloud` `Ubuntu Server` `Raspberry Pi OS`
-
----
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge"/>
+<img src="https://img.shields.io/badge/AWS%20CLI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CLI Badge"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Badge"/>
+<img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server Badge"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi OS Badge"/>
 
 ## 🛠️ Featured Projects
 
