@@ -1,60 +1,74 @@
-# Paul Moore
+# **Paul Moore**  
+📧 Paulmmoore3416@gmail.com | 📞 314-704-8581 | 📍 St. Louis, MO  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/paulmoore3416)  
 
-📧 **Email:** [paulmmoore3416@gmail.com](mailto:paulmmoore3416@gmail.com)  
-📞 **Phone:** 314-704-8581  
-📍 **Location:** St. Louis, MO  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/paulmoore3416)
+## **Skills & Certifications**  
+### **Technical Skills**  
+- **IBM Systems:** IBM z/OS Mainframe Practitioner, IBM Z Application Architecture, IBM Data Topology  
+- **Cloud & Security:** Linux & Private Cloud Administration on IBM Power Systems, Azure Fundamentals, Microsoft 365 Administration  
+- **Networking & Security:** TCP/IP, Windows Server, Hyper-V, Active Directory, Network Hardening, Wireshark, Kali Linux, PowerShell  
+- **Automation & Containerization:** **Ansible, Docker**  
+- **Version Control & Collaboration:** **Git, GitHub, Salesforce, Slack, Zoom, Teams, SharePoint, OneNote**  
+- **Programming & Development:** COBOL, IBM DB2, Java, Python, C++, CI/CD, Agile Methodology, DevOps  
 
----
+### **Certifications**  
+- **IBM z/OS Mainframe Practitioner**  
+- **IBM Z Application Architecture**  
+- **Microsoft Azure Fundamentals**  
+- **CompTIA Security+ (In Progress)**  
+- **Certified Network Technician (CNT) – California Institute of Applied Technology**  
+- **Red Hat Linux System Administrator**  
+- **Oracle Multi-Cloud Architect**  
+- **Cisco Certified Network Associate (CCNA) (In Progress)**  
 
-## 🛠️ Skills & Certifications
+## **Education & Certifications**  
+### **California Institute of Applied Technology** – CNT-Certified Network Technician Program (5/2025–Current)  
+- 20-week intensive program focused on **network installation, troubleshooting, and maintenance**  
+- Hands-on training with **CompTIA Network+ and Cisco CCNA certifications**  
+- Immersive learning with **Build-Your-Own-Computer kits** for practical networking experience  
+- Live online classes with **industry-certified instructors** to develop **advanced networking skills**  
+- Comprehensive coverage of **network security, routing, switching, and wireless technologies**  
 
-### Technical Skills
-- **IBM Systems:** z/OS Mainframe Practitioner, Z Application Architecture, Data Topology
-- **Cloud & Security:** Linux & Private Cloud, Azure Fundamentals, Microsoft 365 Administration
-- **Networking:** TCP/IP, Windows Server, Hyper-V, Active Directory, Network Hardening, Wireshark, Kali Linux, PowerShell
-- **Collaboration Tools:** GitHub, Salesforce, Slack, Zoom, Teams, SharePoint, OneNote
-- **Programming & Development:** COBOL, IBM DB2, Java, Python, C++, CI/CD, DevOps
+### **Cloud and Security Specialist Program** – Centriq Training (Graduated 10/2023)  
+- **Comprehensive IT training** covering **Windows configuration, networking, cloud services, and cybersecurity**  
+- **Hands-on labs and real-world scenarios** to develop troubleshooting and infrastructure management skills  
+- **Microsoft 365 administration, Active Directory, PowerShell scripting, and network security fundamentals**  
+- **Exposure to industry-standard tools** like **Wireshark, Kali Linux, Rocky Linux, and firewall security**  
+- **Professional development training** in technical documentation, communication, and job readiness  
+- **Preparation for industry certifications** including **CompTIA Security+ and Microsoft Azure Fundamentals**  
 
-### Certifications
-- IBM z/OS Mainframe Practitioner
-- IBM Z Application Architecture
-- Microsoft Azure Fundamentals
-- CompTIA Security+ *(In Progress)*
-- Certified Network Technician (CNT)
-- Red Hat Linux System Administrator
-- Oracle Multi-Cloud Architect
-- Cisco Certified Network Associate (CCNA) *(In Progress)*
+### **B.S. Computer Science** – Colorado Technical University (2013–2017)  
+- Coursework in database management, software engineering, data structures, and data mining  
+- Developed an online calculator using Java and a .NET dungeon game from scratch  
 
----
+## **Professional Experience**  
+### **M3 Communications and Technology LLC – Perryville, MO**  
+**System Administrator | Network Technician (5/2013–Present)**  
+- Lead technical consultant for enterprise-level IT solutions, specializing in infrastructure upgrades and system rollouts  
+- Executed Burger King’s NEC digital menu refresh, installing and networking 36 monitors across multiple locations  
+- Managed large-scale printer rollouts for Wells Fargo Advisors and Cisco AP refresh projects for JCPenney locations  
+- Provided strategic IT solutions, troubleshooting, and system maintenance for clients  
 
-## 🎓 Education
+### **Allied Medical LLC – St. Louis, MO**  
+**Maintenance Supervisor / Safety Coordinator (10/2023–Present)**  
+- Managed facility operations, project scheduling, and compliance with ISO, UL, EPA, FDA, and OSHA standards  
+- Oversaw fire safety, machine validation, and vendor onboarding  
+- Utilized Salesforce, Microsoft tools, and Micromain for data entry and project tracking  
 
-**California Institute of Applied Technology**  
-*Certified Network Technician Program (May 2025–Current)*  
-- Focused on network installation, troubleshooting, and maintenance  
-- Hands-on training with CompTIA Network+ and Cisco CCNA certifications
+### **CR Solar – Edwardsville, IL**  
+**Project Manager (11/2022–5/2023)**  
+- Led project scheduling, material procurement, and permit approvals  
+- Managed customer communication and plan set design using Salesforce and Google platforms  
+- Conducted crew training and documentation for new procedures  
 
-**Centriq Training — Cloud and Security Specialist Program**  
-*Graduated October 2023*  
-- IT training in Windows configuration, networking, cybersecurity, and Microsoft 365 administration  
-- Preparation for CompTIA Security+ and Microsoft Azure Fundamentals
+### **Simple Solar – St. Louis, MO**  
+**Installation Technician (2/2021–5/2021)**  
+- Installed solar panel racking, wiring, and jumper piping  
+- Managed inventory and ensured proper wire management  
 
-**B.S. Computer Science — Colorado Technical University**  
-*2013–2017*  
-- Specialized in database management, software engineering, and data mining
-
----
-
-## 💼 Professional Experience
-
-**System Administrator | Network Technician**  
-*M3 Communications and Technology LLC (May 2013–Present)*  
-- Lead consultant for enterprise IT solutions, infrastructure upgrades, and system rollouts  
-- Managed large-scale projects, including NEC digital menu refresh for Burger King
-
-**Maintenance Supervisor | Safety Coordinator**  
-*Allied Medical LLC (Oct 2023–Present)*  
-- Oversaw facility operations and compliance with ISO, UL, EPA, FDA, and OSHA standards
+### **TG Missouri – Perryville, MO**  
+**Maintenance Technician / Mold Setter (11/2017–5/2017)**  
+- Conducted preventive maintenance on injection molding machines and oversaw facility transitions  
+- Managed inventory and equipment installations  
 
 ---
